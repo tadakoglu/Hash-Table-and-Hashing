@@ -1,3 +1,0 @@
-Copy sozluk.txt in \Hash\bin\Debug dictionary. 
-Create the dictionaries if they were not existed yet or run the app once to create them automacially by VS.
-T.Adakoðlu.
